@@ -1,4 +1,3 @@
-let message = "I love you"
 
 function shout(string) {
   let final = string.toUpperCase();
@@ -32,7 +31,7 @@ function sayHiToGrandma(string) {
     return "YES INDEED!";
   }
   
-  if((string) === "I love you, Grandma") {
+  if((string) === "I love you, Grandma.") {
     return "I love you, too."
   }
   
