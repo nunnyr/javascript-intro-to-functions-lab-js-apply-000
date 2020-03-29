@@ -1,3 +1,5 @@
+let message = "I love you"
+
 function shout(string) {
   let final = string.toUpperCase();
   return final;
